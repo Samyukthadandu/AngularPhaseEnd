@@ -1,0 +1,16 @@
+<h1>Reset Admin Password</h1>
+<form [formGroup]="pwd" name="admin" (ngSubmit)="changePwd()" > 
+
+    <div class="mb-3">
+      <label  class="form-label">Name</label>
+      <input type="txt" class="form-control"  formControlName="adminName">
+    </div>
+
+    <div class="mb-3">
+        <label  class="form-label">Password</label>
+        <input type="txt" class="form-control"  formControlName="adminPwd">
+     </div>
+
+     <button type="submit" class="btn btn-primary">Submit</button>
+     <button type="submit" class="btn btn-primary">AdminDashboard</button>
+</form>

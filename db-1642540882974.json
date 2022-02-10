@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tomatoes",
+      "description": "Red Juicy Fresh Local Tomatoes ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdW8l2LVevozQ2GekDOnWhXpBV-DZH3RFvGg&usqp=CAU",
+      "price": 50
+    },
+    {
+      "id": 2,
+      "name": "Potatoes",
+      "description": " Fresh Organic Potatoes ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsklwmjBv5UcFEiPWvpG48qWFAS3eNb6AAeA&usqp=CAU",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "name": "Green Capsicums",
+      "description": "Fresh Banglore Capsicums ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKD3i6AFHqrLcAn5zWInGtG5ZWXeOdGavt7A&usqp=CAU",
+      "price": 50
+    },
+    {
+      "id": 4,
+      "name": "Carrots",
+      "description": "Fresh from Farm carrots",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxom9KNlf3e6ecUxRmhvPvqBeSjKVLxCszQ&usqp=CAU",
+      "price": 100
+    },
+    {
+      "id": 5,
+      "name": "Corn",
+      "description": "Fresh Corn Cobs ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHl2EeqTjJk9Ngx0be1WPdfChD6wv6Jh1Gg&usqp=CAU",
+      "price": 50
+    }
+  ],
+  "admin": [
+    {
+      "adminID":1,
+      "adminName": "Sam",
+      "adminPwd": "55555"
+    }
+  ],
+  "cart": [],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tomatoes",
+      "description": "Red Juicy Fresh Local Tomatoes ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdW8l2LVevozQ2GekDOnWhXpBV-DZH3RFvGg&usqp=CAU",
+      "price": 50,
+      "type": "Vegetable"
+    },
+    {
+      "id": 2,
+      "name": "Potatoes",
+      "description": " Fresh Organic Potatoes ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsklwmjBv5UcFEiPWvpG48qWFAS3eNb6AAeA&usqp=CAU",
+      "price": 20,
+      "type": "Vegetable"
+    },
+    {
+      "id": 3,
+      "name": "Green Capsicums",
+      "description": "Fresh Banglore Capsicums ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKD3i6AFHqrLcAn5zWInGtG5ZWXeOdGavt7A&usqp=CAU",
+      "price": 50,
+      "type": "Vegetable"
+    },
+    {
+      "id": 4,
+      "name": "Carrots",
+      "description": "Fresh from Farm carrots",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxom9KNlf3e6ecUxRmhvPvqBeSjKVLxCszQ&usqp=CAU",
+      "price": 100,
+      "type": "Vegetable"
+    },
+    {
+      "name": "Toor Dal",
+      "description": "First Grade ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAg19_g0uDl1sePzYbGPU-RcKHUCrQMtMPg&usqp=CAU",
+      "price": "150",
+      "id": 6,
+      "type": "Pulses"
+    },
+    {
+      "name": "Urad Dal",
+      "description": "First Grade ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHRtVFU_U7T1cs8IU37Y2pJqrW-rL2BCYLQ&usqp=CAU",
+      "price": "120",
+      "id": 7,
+      "type": "Pulses"
+    },
+    {
+      "name": "Olive oil",
+      "description": "From Spain ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGNSzTX1d7YPEwfZsb4cT_oC90VyOGIA7m7Q&usqp=CAU",
+      "price": "600",
+      "id": 8,
+      "type": "Oil"
+    },
+    {
+      "name": "Sunflower Oil",
+      "description": "ColdPressed ",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYRJ8XOti7GrfnZPvsx-tW_PMRUm_cI_lEw&usqp=CAU",
+      "price": "250",
+      "id": 9,
+      "type": "Oil"
+    },
+    {
+      "name": "Brinjal",
+      "description": "Farm Fresh",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWe75JW3r_QYUyuER2Qm5qXhBL4mC6u115pQ&usqp=CAU",
+      "price": "25",
+      "id": 10
+    }
+  ],
+  "admin": [
+    {
+      "adminID": 1,
+      "adminName": "Sam",
+      "adminPwd": "55555"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 2,
+        "name": "Potatoes",
+        "description": " Fresh Organic Potatoes ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsklwmjBv5UcFEiPWvpG48qWFAS3eNb6AAeA&usqp=CAU",
+        "price": 20
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Green Capsicums",
+        "description": "Fresh Banglore Capsicums ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKD3i6AFHqrLcAn5zWInGtG5ZWXeOdGavt7A&usqp=CAU",
+        "price": 50
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 2,
+        "name": "Potatoes",
+        "description": " Fresh Organic Potatoes ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsklwmjBv5UcFEiPWvpG48qWFAS3eNb6AAeA&usqp=CAU",
+        "price": 20
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Tomatoes",
+        "description": "Red Juicy Fresh Local Tomatoes ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdW8l2LVevozQ2GekDOnWhXpBV-DZH3RFvGg&usqp=CAU",
+        "price": 50
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 3,
+        "name": "Green Capsicums",
+        "description": "Fresh Banglore Capsicums ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKD3i6AFHqrLcAn5zWInGtG5ZWXeOdGavt7A&usqp=CAU",
+        "price": 50
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "name": "Tomatoes",
+        "description": "Red Juicy Fresh Local Tomatoes ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdW8l2LVevozQ2GekDOnWhXpBV-DZH3RFvGg&usqp=CAU",
+        "price": 50
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 5,
+        "name": "Corn",
+        "description": "Fresh Corn Cobs ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHl2EeqTjJk9Ngx0be1WPdfChD6wv6Jh1Gg&usqp=CAU",
+        "price": 50
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 4,
+        "name": "Carrots",
+        "description": "Fresh from Farm carrots",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxom9KNlf3e6ecUxRmhvPvqBeSjKVLxCszQ&usqp=CAU",
+        "price": 100,
+        "type": "Vegetable"
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "name": "Corn",
+        "description": "Fresh Corn Cobs ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeHl2EeqTjJk9Ngx0be1WPdfChD6wv6Jh1Gg&usqp=CAU",
+        "price": "50",
+        "id": 5,
+        "type": "Vegetable"
+      },
+      "id": 9
+    },
+    {
+      "product": {
+        "name": "Sunflower Oil",
+        "description": "ColdPressed ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYRJ8XOti7GrfnZPvsx-tW_PMRUm_cI_lEw&usqp=CAU",
+        "price": "250",
+        "id": 9,
+        "type": "Oil"
+      },
+      "id": 10
+    },
+    {
+      "product": {
+        "name": "Sunflower Oil",
+        "description": "ColdPressed ",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAYRJ8XOti7GrfnZPvsx-tW_PMRUm_cI_lEw&usqp=CAU",
+        "price": "250",
+        "id": 9,
+        "type": "Oil"
+      },
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
